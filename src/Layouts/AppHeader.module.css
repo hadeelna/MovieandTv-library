@@ -1,0 +1,23 @@
+.ul2{
+list-style: none; 
+   display: flex;
+}
+.header{
+    padding: 0.5rem;
+    text-align: center;
+border-radius: 2rem;
+    background-color: #ffffff;
+    color: white;
+    font-size: 1.5rem;
+}
+.li2{
+    color:#919191;
+    margin-left: 15%; 
+}
+.f{
+    color:#919191;
+    text-decoration:none;
+}
+.l{
+    color:#919191;
+}

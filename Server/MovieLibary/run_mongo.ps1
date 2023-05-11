@@ -1,0 +1,1 @@
+C:\Users\hadel\Downloads\mongodb-windows-x86_64-6.0.0\mongodb-win32-x86_64-windows-6.0.0\bin\mongod.exe -dbpath 'C:\mongoo'
